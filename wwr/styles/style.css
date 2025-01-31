@@ -9,17 +9,17 @@ content {
 
 body {
     background-color: white; 
-    color: #ffffff;
+    color: #000000;
 }
 
 header {
     background-color:black;
-    color: #000000;
+    color: #add8e6;
 }
 
 nav a:hover {
     background-color: black;
-    color: #000000;
+    color: #add8e6;
 }
 
 nav a {
@@ -30,7 +30,7 @@ nav a {
 
 .book {
     background-color: white;
-    color: #ffffff;
+    color: #000000;
     text-decoration: none;
 }
 
@@ -42,31 +42,31 @@ nav a {
 
 .book:hover {
     background-color: lightblue;
-    color: #add8e6;
+    color: #000000;
 }
 
 .join:hover {
     background-color: white;
-    color: #ffffff;
+    color: #000000;
 }
 
 .msg {
     background-color: lightblue;
-    color: #add8e6;
+    color: #000000;
 }
 
 footer {
     background-color: gray;
-    color: #808080;
+    color: #000000;
 }
 
 footer a {
     text-align: center;
-    color: #ffffff;
     text-decoration: none;
 }
 
 footer p {
+    text-align: center;
     font-size: 1.5em;
 }
 
@@ -75,13 +75,16 @@ footer p a:hover {
 } 
 
 .logo {
+    text-align: center;
     width: 80px;
 }
 
 .icon {
+    text-align: center;
     width: 80px;
 }
 
 #hero-img {
+    text-align: center;
     width: 100%;
 }
