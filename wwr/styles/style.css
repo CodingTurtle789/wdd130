@@ -5,6 +5,7 @@ content {
 
 #background {
     height: 725px;
+    color: #add8e6;
 }
 
 body {
@@ -28,6 +29,7 @@ nav a {
 }
 
 .book {
+    text-align: center;
     background-color: white;
     color: #000000;
     text-decoration: none;
@@ -50,6 +52,7 @@ nav a {
 }
 
 .msg {
+    text-align: center;
     background-color: lightblue;
     color: #000000;
 }
