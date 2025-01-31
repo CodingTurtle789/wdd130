@@ -5,7 +5,7 @@ content {
 
 #background {
     height: 725px;
-    color: #add8e6;
+    background-color: #add8e6;
 }
 
 body {
@@ -29,7 +29,6 @@ nav a {
 }
 
 .book {
-    text-align: center;
     background-color: white;
     color: #000000;
     text-decoration: none;
@@ -89,4 +88,12 @@ footer p a:hover {
 #hero-img {
     text-align: center;
     width: 100%;
+}
+
+#hero {
+    text-align: center;
+}
+
+.home-grid {
+    text-align: center;
 }
