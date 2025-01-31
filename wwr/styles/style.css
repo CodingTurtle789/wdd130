@@ -5,6 +5,7 @@ content {
 
 #background {
     height: 725px;
+    width: 100%;
     background-color: #add8e6;
 }
 
@@ -67,7 +68,6 @@ footer a {
 }
 
 footer p {
-    text-align: center;
     font-size: 1.5em;
 }
 
@@ -96,4 +96,8 @@ footer p a:hover {
 
 .home-grid {
     text-align: center;
+}
+
+.mountain {
+    text-align: left;
 }
