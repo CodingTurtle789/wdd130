@@ -7,7 +7,7 @@ content {
     height: 725px;
     width: 100%;
     background-color: #add8e6;
-    margin: 75px;
+    margin: 200px 0;
 }
 
 body {
@@ -17,6 +17,7 @@ body {
     font-size: 22px;
     margin: 0;
     padding: 0;
+    font-family: Helvetica, Arial, sans-serif;
 }
 
 h2 {
@@ -44,6 +45,7 @@ nav a {
     color: #000000;
     text-decoration: none;
     font-size: 18px;
+    font-family: 'Rock Salt', 'Bradley Hand', sans-serif;
     padding: 15px 30px;
     margin-top: 50px;
     border-radius: 5px;
@@ -69,6 +71,7 @@ nav a {
 
 .msg p {
     font-size: .8em;
+    font-family: 'Rock Salt', 'Bradley Hand', sans-serif;
     padding-bottom: 15px;
 }
 
@@ -82,11 +85,11 @@ footer {
 footer a {
     text-align: center;
     text-decoration: none;
-    margin-top: 200px;
 }
 
 footer p {
     font-size: 1.5em;
+    margin: 200px 0;
 }
 
 footer p a:hover {
