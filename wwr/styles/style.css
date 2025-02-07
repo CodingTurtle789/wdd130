@@ -67,6 +67,7 @@ nav a {
     color: #000000;
     line-height: 1.5em;
     padding: 35px;
+    margin-top: 200px ;
 }
 
 .msg p {
@@ -157,5 +158,5 @@ main section img {
 }
 
 .mountain {
-    margin: 200px 0;
+    margin: 100px 0;
 }
