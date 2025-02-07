@@ -7,7 +7,7 @@ content {
     height: 725px;
     width: 100%;
     background-color: #add8e6;
-    margin: 25px;
+    margin: 75px;
 }
 
 body {
@@ -82,6 +82,7 @@ footer {
 footer a {
     text-align: center;
     text-decoration: none;
+    margin-top: 200px;
 }
 
 footer p {
