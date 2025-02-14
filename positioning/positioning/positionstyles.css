@@ -33,6 +33,7 @@
 /* Activity 2 styles */ 
 .content2 {
   /* This is the parent of the activity 2 boxes. */
+  display: grid;
 }
 .red2 {
   width: 100px; 
@@ -57,6 +58,7 @@
 /* Activity 3 styles */ 
 .content3 {
   /* This is the parent of the activity 3 boxes. */
+  display: grid;
 }
 .red3 {
   width: 100px; 
@@ -133,6 +135,7 @@
 /* Activity 6 styles */ 
 .content6 {
   /* This is the parent of the activity 6 boxes. */
+  display: grid;
 }
 .red6 {
   width: 100px; 
