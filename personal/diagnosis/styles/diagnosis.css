@@ -67,6 +67,7 @@ p {
 }
 
 .words img {
+    margin-top: 25px;
     float: left;
     width: 200px;
     height: 200px;

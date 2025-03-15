@@ -17,14 +17,6 @@ body {
     margin-left: 25px;
 }
 
-.side {
-    background-color: #191970;
-    grid-column: 1/2;
-    grid-row: 2/7;
-    width: 100%; 
-    height: 100%; 
-}
-
 .logo {
     grid-column: 1/2;
     grid-row: 7/8;
@@ -48,10 +40,12 @@ nav {
 
 .words {
     background-color: white;
-    grid-column: 2/8;
+    grid-column: 1/8;
     grid-row: 2/7;
     width: 100%; 
     height: 100%; 
+    align-content: center;
+    text-align: center;
 }
 
 h4 {
@@ -67,7 +61,6 @@ p {
 }
 
 .words img {
-    float: left;
     height: 200px;
     margin-left: 50px;
     margin-right: 50px;
