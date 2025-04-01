@@ -1,7 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=IM+Fell+French+Canon+SC|Lato');
+
 body {
     display: grid;
     grid-template-columns: repeat(7, 1fr);
     grid-template-rows: repeat(7, 1fr);
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "IM Fell French Canon SC";
+}
+
+p {
+    font-family: Lato, Helvetica, sans-serif;
 }
 
 header {
