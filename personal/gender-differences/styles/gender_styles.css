@@ -4,7 +4,7 @@ body {
     grid-template-rows: repeat(7, 1fr);
 }
 
-head {
+header {
     background-color: #396E94;
     grid-column: 1/8;
     grid-row: 1/2;
@@ -12,9 +12,9 @@ head {
     height: 100%; 
 }
 
-head title {
-    margin-top: 25px;
-    margin-left: 25px;
+header h1 {
+    margin-top: 75px;
+    text-align: center;
 }
 
 .side {
